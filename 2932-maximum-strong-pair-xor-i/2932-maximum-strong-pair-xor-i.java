@@ -4,11 +4,12 @@ class Solution {
     public int maximumStrongPairXor(int[] nums) {
         Arrays.sort(nums);
 
-        int maxXor = 0;
         int left = 0;
+        int maxXor = 0;
 
         for (int right = 0; right < nums.length; right++) {
-            while (nums[right] > 2 * nums[left]) {
+
+            while (nums[right] - nums[left] > nums[left]) {
                 left++;
             }
 
