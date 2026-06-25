@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Sorting
 |  |
 | ------- |
