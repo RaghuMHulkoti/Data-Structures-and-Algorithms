@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Sorting
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2932-maximum-strong-pair-xor-i](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Trie
 |  |
 | ------- |
