@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2932-maximum-strong-pair-xor-i](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Hash Table
 |  |
 | ------- |
