@@ -23,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Counting
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Sorting
 |  |
 | ------- |
@@ -57,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2932-maximum-strong-pair-xor-i](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/2932-maximum-strong-pair-xor-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
