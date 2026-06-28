@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2932-maximum-strong-pair-xor-i](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -64,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
