@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
