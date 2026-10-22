@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0904-fruit-into-baskets) |
+| [1248-count-number-of-nice-subarrays](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0904-fruit-into-baskets) |
+| [1248-count-number-of-nice-subarrays](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0904-fruit-into-baskets) |
+| [1248-count-number-of-nice-subarrays](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/1480-running-sum-of-1d-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Bit Manipulation
@@ -99,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
