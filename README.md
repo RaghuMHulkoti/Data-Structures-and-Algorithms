@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0904-fruit-into-baskets) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0904-fruit-into-baskets) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
@@ -125,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/RaghuMHulkoti/Data-Structures-and-Algorithms/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
