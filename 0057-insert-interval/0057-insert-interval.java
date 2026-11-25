@@ -2,19 +2,19 @@ class Solution {
     public int[][] insert(int[][] intervals, int[] newInterval) {
         List<int[]> ans = new ArrayList<>();
         boolean inserted = false;
-        for (int i=0;i<intervals.length;i++){
+        for (int i = 0; i < intervals.length; i++) {
             int start = intervals[i][0];
-            if(!inserted && start >= newInterval[0]){
+            if (!inserted && start >= newInterval[0]) {
                 ans.add(newInterval);
-                inserted=true;
+                inserted = true;
             }
             ans.add(intervals[i]);
         }
-                if (!inserted) ans.add(newInterval);
+        if (!inserted)
+            ans.add(newInterval);
 
-                return merge(ans.toArray(new int[ans.size()][]));
+        return merge(ans.toArray(new int[ans.size()][]));
 
-        
     }
 
     public int[][] merge(int[][] intervals) {
